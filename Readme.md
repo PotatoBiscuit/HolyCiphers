@@ -6,7 +6,7 @@ It is recommended that you put the languages you want to feed into vigenere ciph
 
 Language files MUST follow the following format: [Language_Name].txt. Some examples of this are "English.txt" and "French.txt" which can be found in the repo.
 ```text
-usage: HolyCiphers [-h] [-k ORIGINAL_KEY] [-l WORD_LENGTH_REQUIREMENT] [-s START_FOLDER] [-r--result-folder RESULT_FOLDER]
+usage: HolyCiphers [-h] [-k ORIGINAL_KEY] [-l WORD_LENGTH_REQUIREMENT] [-s START_FOLDER] [-r RESULT_FOLDER]
 
 Tries to convert words from Start to random words in Result using vigenere cipher
 
@@ -15,7 +15,7 @@ options:
   -k ORIGINAL_KEY, --key ORIGINAL_KEY
   -l WORD_LENGTH_REQUIREMENT, --min-length WORD_LENGTH_REQUIREMENT
   -s START_FOLDER, --start-folder START_FOLDER
-  -r --result-folder RESULT_FOLDER
+  -r RESULT_FOLDER, --result-folder RESULT_FOLDER
 ```
 
 ### Example Command
