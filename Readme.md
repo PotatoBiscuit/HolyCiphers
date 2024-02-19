@@ -25,8 +25,8 @@ options:
 ![](StandardOutput.jpg) 
 
 ### Wordlist Sources
-[English Dictionary](https://github.com/dwyl/english-words) (converted to .txt for me)
-[English Dictionary Original Source](https://web.archive.org/web/20131118073324/https://www.infochimps.com/datasets/word-list-350000-simple-english-words-excel-readable)
-[Finnish Dictionary](https://github.com/pulmark/finnish-dictionary/tree/master)
-[German Dictionary](https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4#file-wordlist-german-txt)
+[English Dictionary](https://github.com/dwyl/english-words) (converted to .txt for me)<br/>
+[English Dictionary Original Source](https://web.archive.org/web/20131118073324/https://www.infochimps.com/datasets/word-list-350000-simple-english-words-excel-readable)<br/>
+[Finnish Dictionary](https://github.com/pulmark/finnish-dictionary/tree/master)<br/>
+[German Dictionary](https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4#file-wordlist-german-txt)<br/>
 [French Dictionary](https://github.com/Vinetos/french-words-dictionary/tree/master?tab=readme-ov-file)
