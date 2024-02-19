@@ -22,7 +22,7 @@ options:
 `python HolyCiphers.py -s Start -r Result -k holy -l 5`
 
 #### Output
-![](/home/lacksidaisical/Desktop/Ciphers/StandardOutput.jpg) 
+![](StandardOutput.jpg) 
 
 ### Wordlist Sources
 [English Dictionary](https://github.com/dwyl/english-words) (converted to .txt for me)
